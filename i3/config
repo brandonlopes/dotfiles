@@ -195,5 +195,5 @@ default_floating_border pixel 1
 exec --no-startup-id nm-applet  
 exec --no-startup-id pnmixer    
 exec --no-startup-id setxkbmap -layout us
-exec_always feh --bg-fill path/to/your/wallpaper 
 exec --no-startup-id picom
+exec_always feh --bg-scale path/to/your/wallpaper 
